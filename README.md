@@ -22,7 +22,7 @@ Clone and build [syntaxnet](https://github.com/tensorflow/models/tree/master/syn
      +-- razão NOUN dobj
      +-- . PUNCT punct
 
-## Acknowledges
+## Acknowledgements
 
 Thank you to tensorflow and syntaxnet developers and maintainers.
 
