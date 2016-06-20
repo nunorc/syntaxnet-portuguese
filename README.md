@@ -1,7 +1,7 @@
 
 # syntaxnet-portuguese
 
-Training a Portuguese language model for [syntaxnet](https://github.com/tensorflow/models/tree/master/syntaxnet),
+A Portuguese language model for [syntaxnet](https://github.com/tensorflow/models/tree/master/syntaxnet),
 treebank data available from [Universal Dependencies](http://universaldependencies.org/).
 
 ## Usage
