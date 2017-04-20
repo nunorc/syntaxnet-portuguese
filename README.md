@@ -1,8 +1,6 @@
+### **NOTE:** [tensorflow/syntaxnet](https://github.com/tensorflow/models/tree/master/syntaxnet) now includes *Parsey Universal* that provides models for other languages, including Portuguese, available [here](https://github.com/tensorflow/models/blob/master/syntaxnet/g3doc/universal.md).
 
 # syntaxnet-portuguese
-
-**NOTE:** tensorflow/syntaxnet now provides models for other languages,
-including Portuguese, available [here](https://github.com/tensorflow/models/blob/master/syntaxnet/universal.md).
 
 A Portuguese language model for [syntaxnet](https://github.com/tensorflow/models/tree/master/syntaxnet),
 treebank data used is available from [Universal Dependencies](http://universaldependencies.org/).
